@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Hi just a message
+=======
+Two two are four
+>>>>>>> firstbranch
